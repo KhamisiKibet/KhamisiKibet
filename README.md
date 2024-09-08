@@ -16,5 +16,6 @@ If you enjoy my projects and find them helpful, consider buying me a coffee. You
 
 ## Stats
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=KhamisiKibet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=KhamisiKibet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=KhamisiKibet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=KhamisiKibet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhamisiKibet&theme=radical&hide_border=true)](https://git.io/streak-stats) 
