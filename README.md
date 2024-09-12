@@ -2,7 +2,7 @@ Hi there! I'm Khamisi Kibet, a passionate learner and enthusiast in the world of
 
 You can reach me through my various channels:
 
-- YouTube: Spinn TV
+- YouTube: Spinn TV - https://www.youtube.com/@SpinnTV
 - Website: https://www.spinncode.com
 - Patreon: https://www.patreon.com/spinntv
 
